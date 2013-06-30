@@ -1,0 +1,21 @@
+a:2:{i:0;a:2:{i:0;s:4194:"<p>地址：武汉市洪山区街道口鹏程国际B座2812 电话：027-50738385　 传真：027-50738385</p>
+<p>版权所有：武汉汤迪科技有限公司 2002-2011　 客服邮箱：service@tangdy.com 　<a href="http://www.miitbeian.gov.cn/">鄂ICP备09019373号</a></p>
+<p>我们为您提供高品质的<a href="http://www.tangdy.com/">武汉网站建设</a>、<a href="http://www.tangdy.com/">武汉网站制作</a>、<a href="http://www.tangdy.com/">武汉网站开发</a>、<a href="http://www.tangdy.com/">武汉网站设计</a>、<a href="http://www.tangdy.com/">武汉网页设计</a>、<a href="http://www.tangdy.com/">武汉网页制作</a>服务！</p>
+<script type="text/javascript">
+var lastScrollY=0;
+function heartBeat(){
+    diffY=document.documentElement.scrollTop;
+    percent=0.1*(diffY-lastScrollY);
+    if(percent>0)percent=Math.ceil(percent);else percent=Math.floor(percent);
+    document.getElementById("sorollDiv").style.top=parseInt(document.getElementById("sorollDiv").style.top)+percent+"px";
+    lastScrollY=lastScrollY+percent;
+}
+window.setInterval("heartBeat()",1);
+function CloseQQ(){
+	document.getElementById("sorollDiv").style.display="none";
+    return true;
+}
+document.write('<div id="sorollDiv"style="width:110px;right:10px;position:absolute;top:140px;z-index:200;"><table width="110"border="0"align="center"cellpadding="0"cellspacing="0"background="/themes/default/css/images/qq_02.gif"><tr><td align="center"><img src="/themes/default/css/images/qq_01.gif"alt="在线咨询"width="110"height="35"border="0"usemap="#Map"/></td></tr><tr><td align="center"><img src="/themes/default/css/images/ask_pic_01.gif"alt="售前QQ咨询"width="86"height="17"/></td></tr>');
+document.write('<tr><td height="5" align="center"></td></tr><tr><td height="25" align="center"><a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=1611785688&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:1611785688:41" alt="" title=""></a></td></tr><tr><td height="25" align="center"><a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=1720830819&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:1720830819:41" alt="" title=""></a></td></tr><tr><td height="25" align="center"><a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=1418375793&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:1418375793:41" alt="" title=""></a></td></tr><tr><td height="25" align="center"><a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=290030958&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:290030958:41" alt="" title=""></a></td></tr><td height="5" align="center"></td></tr><tr><td align="center"><img src="/themes/default/css/images/ask_pic_02.gif"width="87"height="17"alt="技术(机房)"/></td></tr><tr><td height="5" align="center"></td></tr><tr><td height="25" align="center"><a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=10857813&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:10857813:41" alt="" title=""></a></td></tr><tr><td height="25" align="center"><a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=290030958&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:290030958:41" alt="" title=""></a></td></tr><tr><td height="5" align="center"></td></tr><tr><td align="center"><img src="/themes/default/css/images/ask_pic_06.gif"width="87"height="17"alt="客服咨询"/></td></tr><tr><td height="5" align="center"></td></tr><tr><td height="25" align="center"><a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=784424721&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:784424721:41" alt="" title=""></a></td></tr><tr><td height="25" align="center"><a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=1720830819&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:1720830819:41" alt="" title=""></a></td></tr><tr><td height="5" align="center"></td></tr><tr>');
+document.write('<tr><td align="center"><img src="/themes/default/css/images/qq_04.gif"width="110"height="25"></td></tr></table></div><map name="Map"id="Map"><area shape="rect"coords="91,3,107,17"href="#"onclick="CloseQQ()"/></map>');
+</script>";i:1;N;}i:1;N;}

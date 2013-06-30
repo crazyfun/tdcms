@@ -1,0 +1,473 @@
+a:2:{i:0;a:2:{i:0;s:26004:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+	<link rel="stylesheet" type="text/css" href="/themes/default/css/css.css" />
+<link rel="stylesheet" type="text/css" href="/themes/default/css/comment.css" />
+<link rel="stylesheet" type="text/css" href="/js/jbox/Skins2/Blue/jbox.css" />
+<script type="text/javascript" src="/assets/39f1e5b4/jquery.js"></script>
+<script type="text/javascript" src="/js/basic.js"></script>
+<script type="text/javascript" src="/js/comments.js"></script>
+<script type="text/javascript" src="/js/jbox/jquery.jBox-2.3.min.js"></script>
+<script type="text/javascript" src="/js/jbox/i18n/jquery.jBox-zh-CN.js"></script>
+<script type="text/javascript" src="/js/select.js"></script>
+<title>【汤迪科技】专业的武汉网站建设,网站优化公司-武汉网站建设_武汉网站推广_武汉网站优化_武汉网站外包-武汉汤迪科技</title>
+	<meta name="description" content="武汉汤迪科技有限公司是武汉最诚信的网站建设与制作公司,公司长期为政府企业制作网站,外包网站与网站优化.">
+	<meta name="keywords" content="汤迪科技,武汉网站建设,武汉网站优化,武汉做网站,武汉网站制作,武汉网站设计,武汉网站推广,武汉SEO优化,武汉网站外包">
+	<link type="image/x-icon" rel="icon"  href="favicon.ico">
+	<link type="image/x-icon" rel="shortcut Icon"  href="favicon.ico">
+  
+</head>
+<body>
+	
+  	<div class="top">
+	<div class="topbg">  
+   		 <div class="topbox">
+            <div class="topr">
+              <a href="/user/index.shtml">个人中心</a>|<a href="javascript:addCookie('http://www.tangdy.com','汤迪官网');">加入收藏</a>|<a href="javascript:setHomepage('http://www.tangdy.com');">设为首页</a>|<a href="/help/index.shtml">在线帮助</a>|<a href="/webmap/index.shtml">网站地图</a>
+            </div>
+         	<div class="hyname">游客，欢迎<a href=/login/index.shtml>[登录]</a><a href="/registe/index.shtml" class="t_zc" style="color:#fff">免费注册</a>
+          </div> 
+	 		 </div>
+    </div>
+	<div class="header">
+		  
+    	<div class="tell">
+    		 <div class="logo"><a href="/"><img src="/themes/default/css/images/logo.jpg"/></a></div></a>
+		      <p class="Blue">
+		      	<ul class="ul_TopQQ Blue">
+    <li><a href="http://wpa.qq.com/msgrd?V=1&amp;Uin=1611785688&amp;Site=汤迪科技&amp;Menu=yes" target="_blank">
+    <p><img src="http://wpa.qq.com/pa?p=2:1611785688:42" alt="" /></p>
+    <p>&nbsp;咨询-郭先生</p>
+    </a></li>
+    <li><a href="http://wpa.qq.com/msgrd?V=1&amp;Uin=1720830819&amp;Site=汤迪科技&amp;Menu=yes" target="_blank">
+    <p><img src="http://wpa.qq.com/pa?p=2:1720830819:42" alt="" /></p>
+    <p>&nbsp;咨询-唐小姐</p>
+    </a></li>
+    <li><a href="http://wpa.qq.com/msgrd?V=1&amp;Uin=290030958&amp;Site=汤迪科技&amp;Menu=yes" target="_blank">
+    <p><img src="http://wpa.qq.com/pa?p=2:290030958:42" alt="" /></p>
+    <p>&nbsp;技术-刘先生</p>
+    </a></li>
+    <li><a href="http://wpa.qq.com/msgrd?V=1&amp;Uin=1611785688&amp;Site=汤迪科技&amp;Menu=yes" target="_blank">
+    <p><img src="http://wpa.qq.com/pa?p=2:1611785688:42" alt="" /></p>
+    <p>&nbsp;市场-支持</p>
+    </a></li>
+    <li><a href="http://wpa.qq.com/msgrd?V=1&amp;Uin=784424721&amp;Site=汤迪科技&amp;Menu=yes" target="_blank">
+    <p><img src="http://wpa.qq.com/pa?p=2:784424721:42" alt="" /></p>
+    <p>&nbsp;客服-小郭</p>
+    </a></li>
+</ul>
+<script type="text/javascript" src="http://v3.jiathis.com/code/jiathis_r.js?uid=1350955417827300&move=0&amp;btn=r3.gif" charset="utf-8"></script>		      	</p>
+          <p class="tell_box"></p>
+       </div>
+  </div>
+  
+  <div class="nav_bg">
+	<div class="nav">
+<ul id="nav"><!-- 有二级菜单的，给li加class="menu" 没有的不用加 -->
+	
+	 <!-- 一级菜单循环开始-->
+			<li class="mainlevel">
+			<a href="http://www.tangdy.com" class="title " title="首页">首页</a>
+			<!-- 二级菜单循环开始 -->
+			<ul>
+				           </ul>
+			
+	  </li>
+			<li class="mainlevel">
+			<a href="http://www.tangdy.com/mchannels/index/channel/45.shtml" class="title " title="网站建设">网站建设</a>
+			<!-- 二级菜单循环开始 -->
+			<ul>
+				                   <li><a title="建站流程" href="/mchannels/index/channel/45.shtml">建站流程</a></li>
+                           <li><a title="网站套餐" href="/mchannels/package/channel/46/type/4">网站套餐</a></li>
+                           <li><a title="网站定制" href="/mchannels/custom/channel/47/cateogry/23.shtml">网站定制</a></li>
+                   </ul>
+			
+	  </li>
+			<li class="mainlevel">
+			<a href="http://www.tangdy.com/mchannels/list/channel/81.shtml" class="title " title="客户案例">客户案例</a>
+			<!-- 二级菜单循环开始 -->
+			<ul>
+				                   <li><a title="企业网站" href="/mchannels/list/channel/81.shtml">企业网站</a></li>
+                           <li><a title="门户网站" href="/mchannels/list/channel/83.shtml">门户网站</a></li>
+                   </ul>
+			
+	  </li>
+			<li class="mainlevel">
+			<a href="http://www.tangdy.com/mchannels/list/channel/84.shtml" class="title " title="网站营销">网站营销</a>
+			<!-- 二级菜单循环开始 -->
+			<ul>
+				                   <li><a title="网站营销方案" href="/mchannels/list/channel/84.shtml">网站营销方案</a></li>
+                           <li><a title="网站营销知识库" href="/mchannels/list/channel/53.shtml">网站营销知识库</a></li>
+                   </ul>
+			
+	  </li>
+			<li class="mainlevel">
+			<a href="http://www.tangdy.com/mchannels/list/channel/55.shtml" class="title " title="技术专题">技术专题</a>
+			<!-- 二级菜单循环开始 -->
+			<ul>
+				                   <li><a title="行业信息" href="/mchannels/list/channel/55.shtml">行业信息</a></li>
+                           <li><a title="公司新闻" href="/mchannels/list/channel/56.shtml">公司新闻</a></li>
+                           <li><a title="SEO优化" href="/mchannels/list/channel/57.shtml">SEO优化</a></li>
+                           <li><a title="建站知识" href="/mchannels/list/channel/58.shtml">建站知识</a></li>
+                           <li><a title="电子商务" href="/mchannels/list/channel/60.shtml">电子商务</a></li>
+                   </ul>
+			
+	  </li>
+			<li class="mainlevel">
+			<a href="http://www.tangdy.com/mchannels/list/channel/63.shtml" class="title " title="软件产品">软件产品</a>
+			<!-- 二级菜单循环开始 -->
+			<ul>
+				                   <li><a title="产品列表" href="/mchannels/list/channel/63.shtml">产品列表</a></li>
+                           <li><a title="软件开发" href="/mchannels/index/channel/64.shtml">软件开发</a></li>
+                   </ul>
+			
+	  </li>
+			<li class="mainlevel">
+			<a href="http://www.tangdy.com/mchannels/package/channel/66/type/3" class="title menu_select" title="服务报价">服务报价</a>
+			<!-- 二级菜单循环开始 -->
+			<ul>
+				                   <li><a title="服务套餐" href="/mchannels/package/channel/66/type/3">服务套餐</a></li>
+                           <li><a title="定制服务" href="/mchannels/custom/channel/67/cateogry/29.shtml">定制服务</a></li>
+                   </ul>
+			
+	  </li>
+			<li class="mainlevel">
+			<a href="http://www.tangdy.com/mchannels/index/channel/74.shtml" class="title " title="联系我们">联系我们</a>
+			<!-- 二级菜单循环开始 -->
+			<ul>
+				                   <li><a title="关于我们" href="/mchannels/index/channel/69.shtml">关于我们</a></li>
+                           <li><a title="公益栏目" href="http://www.tangdy.com/mchannels/gongyi/channel/85.shtml">公益栏目</a></li>
+                           <li><a title="联系我们" href="/mchannels/index/channel/74.shtml">联系我们</a></li>
+                   </ul>
+			
+	  </li>
+			<li class="mainlevel">
+			<a href="/mchannels/index/channel/75.shtml" class="title " title="服务留言">服务留言</a>
+			<!-- 二级菜单循环开始 -->
+			<ul>
+				           </ul>
+			
+	  </li>
+		 <!-- 一级菜单循环结束-->
+ </ul>
+</div>
+</div>
+
+<script language="javascript">
+	jQuery(function(){
+		var nav=jQuery("#nav>li").each(function(i){
+			    var slide_flag=false;
+          jQuery(this).hover(
+              function(){
+              	if(!slide_flag){
+              		jQuery(this).find("ul").slideDown("fast",function(){ slide_flag=true; });
+              	}
+              },
+              function(){
+              		jQuery(this).find("ul").slideUp("fast",function(){ slide_flag=false; });
+              }
+          ); 
+     });
+	
+	});
+</script></div><!--end top-->
+<div class="sy_ban">
+<div class="searchbox_bg"><!--searchbox-->
+	<form enctype="multipart/form-data" id="header_search" action="/search/index.shtml" method="post">  <div class="searchbox">
+  	        <div class="sinputbox">
+        <div class="sselect select_js">
+       	   <p>标题</p>
+           <ul class="search_ul">
+           	<li ectype="title">标题</li>
+           	<li ectype="like">智能模糊 </li>
+           </ul>
+           <input type="hidden" name="action" value="title" />
+        </div>
+      <input name="keywords" type="text" class="sinput" id="header_search_keywords"/>
+      <input name="" type="submit"  class="sbutton" value=""/>
+      </div>
+  </div>
+   </form></div>
+</div>
+
+<script language="javascript">
+
+		  	  jQuery(function(){
+		  	  	  
+		  	  	  show_keywords_describe("header_search_keywords","请输入搜索内容...","header_search");
+   	  				
+					});
+	
+</script>
+
+
+
+
+
+
+
+  	<div class="ban_bg">
+  <div class="subban">
+  	<p><img width="1000" height="160" alt="" src="/fckupload/b4.jpg" /></p>  </div>
+</div>
+<div class="content">
+  <div class="submian">
+  	<div class="subleft">
+    	<div class="sublist">
+        	<h2>服务套餐</h2>
+                     <ul>
+           	            	<li ><a class="channel_select" href="/mchannels/package/channel/66/type/3" title="服务套餐">服务套餐</a></li>
+                        	<li ><a class="" href="/mchannels/custom/channel/67/cateogry/29.shtml" title="定制服务">定制服务</a></li>
+                       </ul>        </div>
+       <div class="hotmenu">
+        	<h2>热点推荐</h2>
+                       <ul>
+           	            	<li ><a class="" href="/mchannels/package/channel/46/type/4" title="网站套餐">网站套餐</a></li>
+                        	<li ><a class="" href="/mchannels/custom/channel/47/cateogry/23.shtml" title="网站定制">网站定制</a></li>
+                        	<li ><a class="" href="/mchannels/list/channel/57.shtml" title="SEO优化">SEO优化</a></li>
+                        	<li ><a class="" href="/mchannels/list/channel/84.shtml" title="网站营销方案">网站营销方案</a></li>
+                        	<li ><a class="" href="/mchannels/list/channel/63.shtml" title="产品列表">产品列表</a></li>
+                        	<li ><a class="" href="/mchannels/index/channel/64.shtml" title="软件开发">软件开发</a></li>
+                        	<li ><a class="channel_select" href="/mchannels/package/channel/66/type/3" title="服务套餐">服务套餐</a></li>
+                        	<li ><a class="" href="/mchannels/custom/channel/67/cateogry/29.shtml" title="定制服务">定制服务</a></li>
+                       </ul>        </div>
+   	</div>
+    
+  	<div class="sburight">
+  		<h2>
+        	<div class="breadcrumbs_name">服务套餐</div>
+        	<div class="breadcrumbs_wrapper">
+        		     您当前位置：<div class="breadcrumbs">
+<a href="http://www.tangdy.com">首页</a> &raquo; <a href="/mchannels/list/channel/66/category.shtml">服务套餐</a> &raquo; <span></span></div></div>
+							    
+				</h2>
+       
+      	<div class="dz_text">
+      		   <div class="fw_box">
+      		   	 
+                <div class="d_fw_main">
+                	<div class="fw_pic"><img src="/upload/package/_133_149_1350611879_thumb.jpg" width="133" height="149" alt="" /></div>
+                    <div class="fw_right">
+                   	  <div class="fw_prices"><div class="fw_prbox">原价：<span>1000</span>优惠价：300</div><a href="/mchannels/parchive/channel/66/id/10.shtml">年基础服务300套餐</a></div>
+                        <div class="fw_text">
+                        	 <p><span style="color: #2fa6c6">适合企业：</span>适合网站在<a href="http://www.tangdy.com">武汉汤迪科技有限公司</a>开发的企业客户和部分改版客户续费。</p>
+<p><span style="color: #2fa6c6">特色：</span>由开发者来维护，保证程序的稳定和后期技术支持。</p>                      
+                        </div>
+                        <div class="fw_bnt"><a target="_blank" href="/user/packagebuy/id/10.shtml">保存项目</a></div>
+                  </div>
+                 <div style="clear:both"></div>
+                </div>
+            </div>
+            
+            <div class="fw_menu">
+            	  <p>&nbsp;</p>
+<p>注意：在提供包年服务前，我们需要对您网站进行全面的分析。以确定是否可以提供包年服务。<br />
+服务包中未包括的项目和(或)实际工作中超量、超次的部分，将按照单项服务的收费标准收取相应费用。</p>
+<p>服务项目：<br />
+1，及时修改网站运行问题，保障网站正常运行；<br />
+2，负责网站服务器安全；<br />
+3，提供技术支持及网站使用问题解答。</p>
+<p><br />
+服务形式：<br />
+网络在线服务咨询与支持服务。</p>
+<table class="t1" cellspacing="1" cellpadding="0" align="center">
+    <tbody>
+        <tr class="title">
+            <td width="110">服务项目</td>
+            <td width="80">服务方式</td>
+            <td>服务内容</td>
+            <td>价格(元/RMB)</td>
+            <td width="220">备注</td>
+        </tr>
+        <tr>
+            <td>系统安装配置</td>
+            <td>一次</td>
+            <td style="text-align: left; padding-left: 10px">1. 系统安装调试<br />
+            2. 网站栏目配置<br />
+            3. 网站基本信息配置</td>
+            <td>50/次</td>
+            <td style="text-align: left; padding-left: 10px">仅限虚拟主机或服务器安装</td>
+        </tr>
+        <tr class="line">
+            <td>界面风格修改</td>
+            <td>每次</td>
+            <td style="text-align: left; padding-left: 10px">1. 现有界面风格微小调整 <br />
+            2. 现有界面风格修改</td>
+            <td>100起</td>
+            <td style="text-align: left; padding-left: 10px">根据实现难度调整收费</td>
+        </tr>
+        <tr>
+            <td>程序功能修改</td>
+            <td>每项</td>
+            <td style="text-align: left; padding-left: 10px">程序功能微小调整</td>
+            <td>100/项</td>
+            <td style="text-align: left; padding-left: 10px">根据实现难度调整收费</td>
+        </tr>
+        <tr class="line">
+            <td>二次开发咨询</td>
+            <td>小时</td>
+            <td style="text-align: left; padding-left: 10px">提供二次开发咨询服务</td>
+            <td>80/小时</td>
+            <td style="text-align: left; padding-left: 10px">可按照二次开发难度收费</td>
+        </tr>
+        <tr>
+            <td>界面风格定制</td>
+            <td>每套</td>
+            <td style="text-align: left; padding-left: 10px">界面风格仿制或按照客户要求定制</td>
+            <td>2000/套</td>
+            <td style="text-align: left; padding-left: 10px">1、根据工作量及难度调整<br />
+            2、如用户允许CmsEasy二次发布，制作费可打6.5折</td>
+        </tr>
+        <tr class="line">
+            <td>特殊功能开发</td>
+            <td>每项</td>
+            <td style="text-align: left; padding-left: 10px">特殊功能实现，模块开发</td>
+            <td>2000元起</td>
+            <td style="text-align: left; padding-left: 10px">根据工作量及难度调整</td>
+        </tr>
+        <tr>
+            <td>LOGO设计</td>
+            <td>每个</td>
+            <td style="text-align: left; padding-left: 10px">企业LOGO设计</td>
+            <td>300元起</td>
+            <td style="text-align: left; padding-left: 10px">根据具体要求调整</td>
+        </tr>
+        <tr class="line">
+            <td>图片处理</td>
+            <td>每张</td>
+            <td style="text-align: left; padding-left: 10px">根据要求进行图片处理</td>
+            <td>50/张</td>
+            <td>&nbsp;</td>
+        </tr>
+    </tbody>
+</table>            </div>
+            
+                
+      </div> 
+   </div>
+<div style="clear:both;"></div>
+  </div>
+</div>
+  	<div class="footer">
+	<div class="fotmenu">
+    	 
+    	 	<div class="b1">
+<ul>
+    <h2><a href="/mchannels/index/channel/69.shtml">关于我们</a></h2>
+    <li><a href="#">服务优势</a></li>
+    <li><a href="#">企业文化</a></li>
+    <li><a href="#">人才招聘</a></li>
+    <li><a href="#">支付方式</a></li>
+</ul>
+</div>
+<div class="b1">
+<ul>
+    <h2><a href="/mchannels/index/channel/45.shtml">网站建设</a></h2>
+    <li><a href="/mchannels/index/channel/45.shtml">建站流程</a></li>
+    <li><a href="/mchannels/list/channel/58.shtml">建站知识</a></li>
+    <li><a href="/mchannels/list/channel/57.shtml">seo优化</a></li>
+    <li><a href="/mchannels/list/channel/60.shtml">电子商务</a></li>
+</ul>
+</div>
+<div class="b1">
+<ul>
+    <h2><a href="#">网站专题</a></h2>
+    <li><a href="/mchannels/package/channel/66/type/3">服务套餐</a></li>
+    <li><a href="/mchannels/custom/channel/67/cateogry/29.shtml">定制服务</a></li>
+    <li><a href="#">网页设计</a></li>
+    <li><a href="#">WEB2.0</a></li>
+</ul>
+</div>
+<div class="b1">
+<ul>
+    <h2><a href="/mchannels/list/channel/84.shtml">网站营销</a></h2>
+    <li><a href="/mchannels/list/channel/84.shtml">网站营销方案</a></li>
+    <li><a href="#">百度推广</a></li>
+    <li><a href="#">谷歌推广</a></li>
+    <li><a href="#">网站优化</a></li>
+</ul>
+</div>
+<div class="b1">
+<ul>
+    <h2><a href="/mchannels/index/channel/74.shtml">联系我们</a></h2>
+    <li><a href="/mchannels/index/channel/75.shtml">服务留言</a></li>
+    <li><a href="#">企业文化</a></li>
+    <li><a href="#">人才招聘</a></li>
+    <li><a href="#">支付方式</a></li>
+</ul>
+</div>    </div>
+    <div class="links">
+    	
+    	      <ul>
+            <li>友情链接： </li>  
+                           <li><a href="http://www.beaer.com" title="广州网站建设">广州网站建设</a></li>
+            
+                           <li><a href="http://www.tangdy.com" title="武汉网站建设">武汉网站建设</a></li>
+            
+                           <li><a href="http://www.bywl.org" title="沧州做网站">沧州做网站</a></li>
+            
+                           <li><a href="http://www.panhongqiang.com" title="济南seo">济南seo</a></li>
+            
+                           <li><a href="http://www.eking.cc" title="嘉兴网站制作">嘉兴网站制作</a></li>
+            
+                           <li><a href="http://www.dydl.net" title="外贸SEO">外贸SEO</a></li>
+            
+                           <li><a href="http://www.bossuu.com" title="网络营销培训">网络营销培训</a></li>
+            
+                           <li><a href="http://www.qdong.net" title="慈溪网络公司">慈溪网络公司</a></li>
+            
+                           <li><a href="http://www.toy-home.com" title="南京网站建设">南京网站建设</a></li>
+            
+                           <li><a href="http://www.hzbanlan.com" title="杭州网站建设公司">杭州网站建设公司</a></li>
+            
+                           <li><a href="http://www.hizhi.cc" title="云阳做网站">云阳做网站</a></li>
+            
+                           <li><a href="http://www.seo8090.com" title="从化网站建设">从化网站建设</a></li>
+            
+                           <li><a href="http://www.qifeiweb.com" title="郑州网站优化">郑州网站优化</a></li>
+            
+                           <li><a href="http://www.bdjxl.com" title="武汉百度推广">武汉百度推广</a></li>
+            
+                           <li><a href="http://www.51cse.com/" title="企业网站优化">企业网站优化</a></li>
+            
+                           <li><a href="http://www.6seo6.com" title="上海做网站">上海做网站</a></li>
+            
+                           <li><a href="http://www.0791xh.com" title="南昌网站建设">南昌网站建设</a></li>
+            
+                           <li><a href="http://www.baiyunzhang.com" title="保定网站制作">保定网站制作</a></li>
+            
+                           <li><a href="http://idc.tangdy.com" title="武汉虚拟主机">武汉虚拟主机</a></li>
+            
+            
+        </ul>    	
+    
+    </div>
+	<div class="bottom">
+   	      <p>地址：武汉市洪山区街道口鹏程国际B座2812 电话：027-50738385　 传真：027-50738385</p>
+<p>版权所有：武汉汤迪科技有限公司 2002-2011　 客服邮箱：service@tangdy.com 　<a href="http://www.miitbeian.gov.cn/">鄂ICP备09019373号</a></p>
+<p>我们为您提供高品质的<a href="http://www.tangdy.com/">武汉网站建设</a>、<a href="http://www.tangdy.com/">武汉网站制作</a>、<a href="http://www.tangdy.com/">武汉网站开发</a>、<a href="http://www.tangdy.com/">武汉网站设计</a>、<a href="http://www.tangdy.com/">武汉网页设计</a>、<a href="http://www.tangdy.com/">武汉网页制作</a>服务！</p>
+<script type="text/javascript">
+var lastScrollY=0;
+function heartBeat(){
+    diffY=document.documentElement.scrollTop;
+    percent=0.1*(diffY-lastScrollY);
+    if(percent>0)percent=Math.ceil(percent);else percent=Math.floor(percent);
+    document.getElementById("sorollDiv").style.top=parseInt(document.getElementById("sorollDiv").style.top)+percent+"px";
+    lastScrollY=lastScrollY+percent;
+}
+window.setInterval("heartBeat()",1);
+function CloseQQ(){
+	document.getElementById("sorollDiv").style.display="none";
+    return true;
+}
+document.write('<div id="sorollDiv"style="width:110px;right:10px;position:absolute;top:140px;z-index:200;"><table width="110"border="0"align="center"cellpadding="0"cellspacing="0"background="/themes/default/css/images/qq_02.gif"><tr><td align="center"><img src="/themes/default/css/images/qq_01.gif"alt="在线咨询"width="110"height="35"border="0"usemap="#Map"/></td></tr><tr><td align="center"><img src="/themes/default/css/images/ask_pic_01.gif"alt="售前QQ咨询"width="86"height="17"/></td></tr>');
+document.write('<tr><td height="5" align="center"></td></tr><tr><td height="25" align="center"><a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=1611785688&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:1611785688:41" alt="" title=""></a></td></tr><tr><td height="25" align="center"><a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=1720830819&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:1720830819:41" alt="" title=""></a></td></tr><tr><td height="25" align="center"><a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=1418375793&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:1418375793:41" alt="" title=""></a></td></tr><tr><td height="25" align="center"><a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=290030958&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:290030958:41" alt="" title=""></a></td></tr><td height="5" align="center"></td></tr><tr><td align="center"><img src="/themes/default/css/images/ask_pic_02.gif"width="87"height="17"alt="技术(机房)"/></td></tr><tr><td height="5" align="center"></td></tr><tr><td height="25" align="center"><a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=10857813&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:10857813:41" alt="" title=""></a></td></tr><tr><td height="25" align="center"><a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=290030958&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:290030958:41" alt="" title=""></a></td></tr><tr><td height="5" align="center"></td></tr><tr><td align="center"><img src="/themes/default/css/images/ask_pic_06.gif"width="87"height="17"alt="客服咨询"/></td></tr><tr><td height="5" align="center"></td></tr><tr><td height="25" align="center"><a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=784424721&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:784424721:41" alt="" title=""></a></td></tr><tr><td height="25" align="center"><a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=1720830819&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:1720830819:41" alt="" title=""></a></td></tr><tr><td height="5" align="center"></td></tr><tr>');
+document.write('<tr><td align="center"><img src="/themes/default/css/images/qq_04.gif"width="110"height="25"></td></tr></table></div><map name="Map"id="Map"><area shape="rect"coords="91,3,107,17"href="#"onclick="CloseQQ()"/></map>');
+</script>    </div>
+</div> 
+</div></body>
+</html>
+
+
+";i:1;a:9:{i:0;a:3:{i:0;s:12:"clientScript";i:1;s:15:"registerCssFile";i:2;a:1:{i:0;s:27:"/themes/default/css/css.css";}}i:1;a:3:{i:0;s:12:"clientScript";i:1;s:15:"registerCssFile";i:2;a:1:{i:0;s:31:"/themes/default/css/comment.css";}}i:2;a:3:{i:0;s:12:"clientScript";i:1;s:15:"registerCssFile";i:2;a:1:{i:0;s:29:"/js/jbox/Skins2/Blue/jbox.css";}}i:3;a:3:{i:0;s:12:"clientScript";i:1;s:18:"registerCoreScript";i:2;a:1:{i:0;s:6:"jquery";}}i:4;a:3:{i:0;s:12:"clientScript";i:1;s:18:"registerScriptFile";i:2;a:1:{i:0;s:12:"/js/basic.js";}}i:5;a:3:{i:0;s:12:"clientScript";i:1;s:18:"registerScriptFile";i:2;a:1:{i:0;s:15:"/js/comments.js";}}i:6;a:3:{i:0;s:12:"clientScript";i:1;s:18:"registerScriptFile";i:2;a:1:{i:0;s:31:"/js/jbox/jquery.jBox-2.3.min.js";}}i:7;a:3:{i:0;s:12:"clientScript";i:1;s:18:"registerScriptFile";i:2;a:1:{i:0;s:34:"/js/jbox/i18n/jquery.jBox-zh-CN.js";}}i:8;a:3:{i:0;s:12:"clientScript";i:1;s:18:"registerScriptFile";i:2;a:1:{i:0;s:13:"/js/select.js";}}}}i:1;O:18:"CDbCacheDependency":7:{s:12:"connectionID";s:2:"db";s:3:"sql";s:40:"SELECT MAX(update_time) FROM tr_archives";s:6:"params";N;s:23:" CDbCacheDependency _db";N;s:23:" CCacheDependency _data";a:1:{s:16:"MAX(update_time)";s:10:"1363624141";}s:14:" CComponent _e";N;s:14:" CComponent _m";N;}}

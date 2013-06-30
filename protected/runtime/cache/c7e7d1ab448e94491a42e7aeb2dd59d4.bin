@@ -1,0 +1,44 @@
+a:2:{i:0;a:2:{i:0;s:2032:"                      <div class="scroll_imgs"><!--scroll_imgs--> 
+                <div id="idContainer2" class=conflash>
+                        <table id=idSlider2 border=0 cellSpacing=0 cellPadding=0>
+                            <tbody>
+                                <tr>
+                                	                                    <td class=td_f><a href="aaaa"><img src="/upload/flashad/1350351601.jpg" alt="aaa"/></a></td>
+                                                                      <td class=td_f><a href="dd"><img src="/upload/flashad/1350351976.jpg" alt="ww"/></a></td>
+                                                                      <td class=td_f><a href="ss"><img src="/upload/flashad/1358327781.jpg" alt="ss"/></a></td>
+                                                                  </tr>
+                            </tbody>
+                         </table>
+                        <ul id=idNum class=num>
+                        	
+                        </ul>
+                    </div>
+                </div>
+                <!--scroll_pic end--> 
+
+<script language="javascript">
+ jQuery(function(){
+	var forEach = function(array, callback, thisObject){
+ 		if(array.forEach){
+  			array.forEach(callback, thisObject);
+ 		}else{
+  			for (var i = 0, len = array.length; i < len; i++) { callback.call(thisObject, array[i], i, array); }
+   	}
+	}
+	var st = new SlideTrans("idContainer2","idSlider2","3",{Vertical: false});
+	var nums = [];
+	//插入数字
+	for(var i = 0, n = st._count - 1; i <= n;){
+ 		(nums[i] = document.getElementById("idNum").appendChild(document.createElement("li"))).innerHTML = ++i;
+	}
+	forEach(nums, function(o, i){
+ 		o.onmouseover = function(){ o.className = "on"; st.Auto = false; st.Run(i); }
+ 		o.onmouseout = function(){ o.className = ""; st.Auto = true; st.Run(); }
+	})
+	//设置按钮样式
+	st.onStart = function(){
+ 		forEach(nums, function(o, i){ o.className = st.Index == i ? "on" : ""; })
+	}
+	st.Run();
+ });
+</script> ";i:1;a:1:{i:0;a:3:{i:0;s:12:"clientScript";i:1;s:18:"registerScriptFile";i:2;a:1:{i:0;s:18:"/js/flash_slide.js";}}}}i:1;N;}

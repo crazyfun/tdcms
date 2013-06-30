@@ -1,0 +1,35 @@
+a:2:{i:0;a:2:{i:0;s:2965:"                <ul id="mycarousel" class="jcarousel-skin-tango">
+        	        	   	<li>
+        	   	  <div class="flash_img_wrapper"><a href="/mchannels/archive/archive/26.shtml" title="缅泰皇家翡翠"><p><img src="/upload/archive/81/_165_120_1346146254_thumb.jpg" alt="缅泰皇家翡翠"></p></a></div>
+        	   	  <p class="flash_title"><a href="/mchannels/archive/archive/26.shtml" title="缅泰皇家翡翠"/>缅泰皇家翡翠</a></p>
+        	   	</li>
+                 	   	<li>
+        	   	  <div class="flash_img_wrapper"><a href="/mchannels/archive/archive/27.shtml" title="湖北吉祥盛世药业有限公司"><p><img src="//fckupload/_165_120_jxss_thumb.png" alt="湖北吉祥盛世药业有限公司"></p></a></div>
+        	   	  <p class="flash_title"><a href="/mchannels/archive/archive/27.shtml" title="湖北吉祥盛世药业有限公司"/>湖北吉祥盛世药业有限公司</a></p>
+        	   	</li>
+                 	   	<li>
+        	   	  <div class="flash_img_wrapper"><a href="/mchannels/archive/archive/28.shtml" title="海利驰"><p><img src="//_165_120__thumb." alt="海利驰"></p></a></div>
+        	   	  <p class="flash_title"><a href="/mchannels/archive/archive/28.shtml" title="海利驰"/>海利驰</a></p>
+        	   	</li>
+                 	   	<li>
+        	   	  <div class="flash_img_wrapper"><a href="/mchannels/archive/archive/29.shtml" title="极客减肥训练营"><p><img src="//fckupload/_165_120_jkjf_thumb.png" alt="极客减肥训练营"></p></a></div>
+        	   	  <p class="flash_title"><a href="/mchannels/archive/archive/29.shtml" title="极客减肥训练营"/>极客减肥训练营</a></p>
+        	   	</li>
+                 	   	<li>
+        	   	  <div class="flash_img_wrapper"><a href="/mchannels/archive/archive/30.shtml" title="湖北布谷鸟环境工程有限公司"><p><img src="//fckupload/_165_120_bgn_thumb.png" alt="湖北布谷鸟环境工程有限公司"></p></a></div>
+        	   	  <p class="flash_title"><a href="/mchannels/archive/archive/30.shtml" title="湖北布谷鸟环境工程有限公司"/>湖北布谷鸟环境工程有限公司</a></p>
+        	   	</li>
+                 	   	<li>
+        	   	  <div class="flash_img_wrapper"><a href="/mchannels/archive/archive/31.shtml" title="香港汉莱森环境工程有限公司"><p><img src="/upload/archive/81/_165_120_1346142331_thumb.jpg" alt="香港汉莱森环境工程有限公司"></p></a></div>
+        	   	  <p class="flash_title"><a href="/mchannels/archive/archive/31.shtml" title="香港汉莱森环境工程有限公司"/>香港汉莱森环境工程有限公司</a></p>
+        	   	</li>
+                  </ul> 
+    <script type="text/javascript">  
+        jQuery(function(){  
+            //Ϊul����jCarousel���  
+            jQuery("#mycarousel").jcarousel({
+            	'auto':5,
+            	'wrap':'circular'
+            });  
+        });  
+    </script>  ";i:1;a:2:{i:0;a:3:{i:0;s:12:"clientScript";i:1;s:18:"registerScriptFile";i:2;a:1:{i:0;s:37:"/js/jcarousel/jquery.jcarousel.min.js";}}i:1;a:3:{i:0;s:12:"clientScript";i:1;s:15:"registerCssFile";i:2;a:1:{i:0;s:34:"/js/jcarousel/skins/tango/skin.css";}}}}i:1;N;}

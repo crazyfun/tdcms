@@ -1,0 +1,96 @@
+<?php 
+       $service_category=new ServiceCategory();
+       $type=$service_category->get_select('0');
+       $this->widget('AddItems', array( 
+          'model'=>$model, 
+          'name'=>'服务定制',
+          //用户操作
+          'user_operate'=>array(
+              array(
+               'name'=>'返回到diy定制列表',
+               'value'=>$this->createUrl("index",array()),
+             ),
+             array(
+				       'name'=>'新增diy定制',
+				       'value'=>$this->createUrl("add",array())
+				     ),
+          ),
+          //增加的内容字段
+     'add_datas'=>array(
+         'title'=>array(
+					'name'=>'标题',
+					'type'=>'text',//搜索框的类型
+					'value'=>'',
+					'htmlOptions'=>array(),
+         ), 
+		    'type'=>array(
+					 'name'=>'服务分类',
+					 'type'=>'select',
+					 'value'=>$type,
+					 'htmlOptions'=>array(),
+			  ),
+        'start_date'=>array(
+					 'name'=>'开始时间',
+					 'type'=>'date',
+					 'value'=>'',
+					 'desc'=>'不填则无限制',
+					 'htmlOptions'=>array(),
+			  ),
+        'end_date'=>array( 
+					 'name'=>'结束时间',
+					 'type'=>'date',
+					 'value'=>'',
+					 'desc'=>'不填则无限制',
+					 'htmlOptions'=>array(),
+			  ),
+			  
+			  'user_ids'=>array(
+					 'name'=>'定制用户',
+					 'type'=>'multiauto',
+					 'value'=>$user_ids_data,
+					 'desc'=>'不填则为全部用户',
+					 'htmlOptions'=>array('serviceUrl'=>$this->createUrl('/main/searchuser')),
+			  ),
+			  
+			 'describe'=>array(
+					'name'=>'描述',
+					'type'=>'multitext',
+					'value'=>'',
+					'htmlOptions'=>array(),
+			 ),
+
+			 'price'=>array(
+					'name'=>'价钱',
+					'type'=>'number',
+					'value'=>'',
+					'htmlOptions'=>array(),
+			 ),  
+			  'bargain_price'=>array(
+					'name'=>'优惠价',
+					'type'=>'number',
+					'value'=>'',
+					'htmlOptions'=>array(),
+			 ), 
+			 'unit'=>array(
+					'name'=>'单位',
+					'type'=>'text',
+					'value'=>'',
+					'htmlOptions'=>array(),
+			 ), 
+			 'sort'=>array(
+					'name'=>'排序',
+					'type'=>'number',
+					'value'=>'',
+					'htmlOptions'=>array(),
+			  ),    
+    
+			),
+
+			 //最下面操作按钮
+			'operates'=>array(
+				array(
+				   
+				),
+			),
+       ));
+?>

@@ -1,0 +1,42 @@
+a:2:{i:0;a:2:{i:0;s:2640:"	   <div id="Marquee">
+	    <ul>
+	    	        	  <li><span>2012-12-17</span><a href="/mchannels/archive/archive/188.shtml" title="企业站常见的一些错误以及如何优化">企业站常见的一些错误以及如何优化&nbsp;</a></li>
+                	  <li><span>2012-11-14</span><a href="/mchannels/archive/archive/116.shtml" title="刚做网站优化的常见问题">刚做网站优化的常见问题&nbsp;</a></li>
+                	  <li><span>2012-11-13</span><a href="/mchannels/archive/archive/115.shtml" title="做网站关键词的方法">做网站关键词的方法</a></li>
+                	  <li><span>2012-11-09</span><a href="/mchannels/archive/archive/106.shtml" title="网站推广四步走">网站推广四步走</a></li>
+                	  <li><span>2012-11-08</span><a href="/mchannels/archive/archive/102.shtml" title="做推广那种广告效果更好">做推广那种广告效果更好&nbsp;</a></li>
+                	  <li><span>2012-11-07</span><a href="/mchannels/archive/archive/99.shtml" title="网络营销如何扩展口碑效应">网络营销如何扩展口碑效应&nbsp;</a></li>
+                	  <li><span>2012-11-06</span><a href="/mchannels/archive/archive/97.shtml" title="网络营销要有策略会操作">网络营销要有策略会操作&nbsp;</a></li>
+                	  <li><span>2012-11-03</span><a href="/mchannels/archive/archive/90.shtml" title="网站内部优化要注意哪些方面">网站内部优化要注意哪些方面&nbsp;</a></li>
+                	  <li><span>2012-07-30</span><a href="/mchannels/archive/archive/48.shtml" title="Baidu收录 and Googlee收录">Baidu收录 and Googlee收录</a></li>
+                	  <li><span>2012-07-30</span><a href="/mchannels/archive/archive/47.shtml" title="2012三个因素影响网络营销">2012三个因素影响网络营销&nbsp;</a></li>
+           
+      </ul>
+     </div>
+      <script language="javascript">
+					var Mar = document.getElementById("Marquee");
+					var child_div=Mar.getElementsByTagName("li");
+					var picH = 16;
+					var scrollstep=3;
+					var scrolltime=50;
+					var stoptime=5000;
+					var tmpH = 0;
+					Mar.innerHTML += Mar.innerHTML;
+					function start(){
+						if(tmpH < picH){
+							tmpH += scrollstep;
+							if(tmpH > picH )tmpH = picH ;
+									Mar.scrollTop = tmpH;
+									setTimeout(start,scrolltime);
+							}else{
+									tmpH = 0;
+									Mar.appendChild(child_div[0]);
+									Mar.scrollTop = 0;
+									setTimeout(start,stoptime);
+							}
+						}
+				  jQuery(function(){
+				  	 setTimeout(start,stoptime)
+				  });
+					
+			</script>";i:1;N;}i:1;N;}
